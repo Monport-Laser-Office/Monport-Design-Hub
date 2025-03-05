@@ -10,7 +10,9 @@ Download the appropriate installer for your operating system:
 Windows users: MonportSuite_Win64_v2.8.1.exe
 macOS Intel users: MonportSuite_macOS_v2.8.1.dmg
 macOS M-series users: MonportSuite_macOS_v2.8.1.dmg
+
 ▌ Important Notes
+
 ⚠️ Ensure your system meets the minimum requirements: Windows 10 x64 or later / macOS 13.5 or later
 ⚠️ Disable VPN or network proxy software during installation and usage
 
