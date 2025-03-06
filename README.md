@@ -6,15 +6,15 @@ Welcome to the dedicated software repository for Monport series laser engraving 
 
 Navigate to the "Releases" section (version release area on the right side)
 
-Select the version labeled 「Latest Stable Release」 (currently recommended: v2.8.1)
+Select the version labeled 「Latest Stable Release」 (currently recommended: v1.2.0)
 
 Download the appropriate installer for your operating system:
 
-Windows users: MonportSuite_Win64_v2.8.1.exe
+Windows users: M-Design.Hub-Windows.x64-1.2.0.exe
 
-macOS Intel users: MonportSuite_macOS_v2.8.1.dmg
+macOS Intel users: M-DesignHub-MacOS-Intel-1.2.0.dmg
 
-macOS M-series users: MonportSuite_macOS_v2.8.1.dmg
+macOS M-series users: M-DesignHub-MacOS-M-1.2.0.dmg
 
 ▌ Important Notes
 
