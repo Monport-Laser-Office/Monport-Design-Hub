@@ -18,7 +18,7 @@ macOS M-series users: M-DesignHub-MacOS-M-1.2.0.dmg
 
 ▌ Important Notes
 
-⚠️ Ensure your system meets the minimum requirements: Windows 10 x64 or later / macOS 13.5 or later
+⚠️ Ensure your system meets the minimum requirements: Windows 10 x64 or later / MacOS 13.5 or later
 
 ⚠️ Disable VPN or network proxy software during installation and usage
 
