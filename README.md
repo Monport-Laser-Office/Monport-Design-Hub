@@ -6,7 +6,7 @@ Welcome to the dedicated software repository for Monport series laser engraving 
 
 Navigate to the "Releases" section (version release area on the right side)
 
-Select the version labeled 「Latest Stable Release」 (currently recommended: v1.0.6.3)
+Select the version labeled 「Latest Stable Release」 (currently recommended: v1.6.2)
 
 Download the appropriate installer for your operating system:
 
