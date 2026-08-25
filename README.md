@@ -10,11 +10,11 @@ Select the version labeled 「Latest Stable Release」 (currently recommended: v
 
 Download the appropriate installer for your operating system:
 
-Windows users: M-Design.Hub-Windows.x64-1.8.1.exe
+Windows users: M-Design.Hub-Windows.x64-2.0.1.exe
 
-macOS Intel users: M-DesignHub-MacOS-Intel-1.8.1.dmg
+macOS Intel users: M-DesignHub-MacOS-Intel-2.0.1.dmg
 
-macOS M-series users: M-DesignHub-MacOS-M-1.8.1.dmg
+macOS M-series users: M-DesignHub-MacOS-M-2.0.1.dmg
 
 ▌ Important Notes
 
